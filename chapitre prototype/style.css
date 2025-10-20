@@ -7,7 +7,7 @@ body {
 
 header {
    display: grid;
-   grid-template-columns: 1fr auto; /* الاسم جهة اليسار، الصورة جهة اليمين */
+   grid-template-columns: 1fr auto;
    background-color: #aab9cc;
    padding: 25px;
    border-radius: 40px;
@@ -81,4 +81,5 @@ h1,h2,footer {
 
  
     
+
   
