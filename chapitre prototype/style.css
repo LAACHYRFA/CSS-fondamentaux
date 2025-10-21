@@ -1,8 +1,5 @@
 body {
-    display: flex;
-    flex-direction: column;
     background-color: #e3f2fd;
-
 }
 
 header {
@@ -83,3 +80,4 @@ h1,h2,footer {
     
 
   
+
